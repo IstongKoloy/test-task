@@ -1,7 +1,7 @@
 import { AppBar, Toolbar, Typography } from "@mui/material";
 import React from "react";
 import { Link, Outlet } from "react-router-dom";
-import './scss/styles.scss'
+import './scss/styles.css'
 
 function Home() {
   return (
